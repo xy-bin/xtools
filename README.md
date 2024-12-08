@@ -2,7 +2,6 @@
 <br/>
 
 <p align="center">
-  <a href="https://rivers.chaitin.cn/">长亭百川云</a> |
   <a href="https://rivers.chaitin.cn/tools/">在线使用工具库</a>
 </p>
 
